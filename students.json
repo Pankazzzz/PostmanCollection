@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "location": "India",
+      "phone": "9022575112",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Emma",
+      "location": "USA",
+      "phone": "9876543210",
+      "courses": [
+        "Python",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Raj",
+      "location": "Canada",
+      "phone": "8765432109",
+      "courses": [
+        "C++",
+        "Data Structures"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "malang",
+      "location": "canada",
+      "phone": "3779292002",
+      "courses": [
+        "dev",
+        "sql"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "malang",
+      "location": "canada",
+      "phone": "3779292002",
+      "courses": [
+        "dev",
+        "sql"
+      ]
+    }
+  ]
+}
